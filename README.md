@@ -31,7 +31,7 @@ The project has three Python files:
 
 1. Open the project folder:
 
-   cd ~/tasc-rover-diagnostics
+   cd ~/unified_system_diagnostics
 
 2. Set up ROS 2:
 
